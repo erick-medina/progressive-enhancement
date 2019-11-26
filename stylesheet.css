@@ -1,0 +1,109 @@
+blockquote {
+    font-family: sans-serif;
+    text-align: center;
+    color: darkslategray;
+    letter-spacing: 1px;
+}
+
+a:link {
+    background-color: yellow;
+}
+a:visited {
+    background-color: cyan;
+}
+a:hover {
+    background-color: lightgreen;
+}
+a:active {
+    background-color: hotpink;
+}
+
+body {
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 50px;
+    margin-bottom: 100px;
+    background-image: url("https://www.netpremacy.com/wp-content/uploads/2018/09/Background-website-01.jpg");
+    background-repeat: no-repeat;
+    size: cover;
+    font-family: 'Open Sans', sans-serif;
+}
+p.conclusion {
+    background-color: lightgrey;
+    font-size: 160%;
+    border-left-style: dotted ;
+    padding-left: 30px ;
+    font-style: italic;
+}
+.farmer {
+color: darkred;
+}
+
+.neighbors {
+color: darkorchid;
+}
+
+header>h1 {
+
+    background-color: yellow;
+}
+.good {
+    color: green;
+    text-transform: uppercase;
+}
+
+.bad {
+    color: red;
+    text-transform: uppercase;
+}
+
+.firstline {
+    background-color: lightgrey;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+th, td {
+    text-align: center;
+    padding: 20px;
+
+}
+tr:nth-child(even) {background-color: lightgrey}
+th {
+    background-color: cadetblue;
+    color: white;
+}
+
+.Img1 {
+    float: left;
+
+}
+
+.notification {
+    position: fixed;
+    right: 100px;
+    bottom: 100px;
+
+}
+
+h2 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+.tablephrase {
+    text-align: center;
+}
+
+.preamble {
+    text-align: left;
+}
+
+.title {
+    text-align: center;
+}
