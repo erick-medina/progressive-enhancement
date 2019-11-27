@@ -24,6 +24,7 @@ body {
     margin-top: 50px;
     margin-bottom: 100px;
     background-image: url("https://www.freeppt7.com/uploads/180929/1-1P92Z95U29B.JPG");
+    background-attachment: fixed;
     background-size: cover;
     background-repeat: no-repeat;
     font-family: 'Open Sans', sans-serif;
